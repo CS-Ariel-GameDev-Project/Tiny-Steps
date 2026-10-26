@@ -1,23 +1,21 @@
-##כותרת ראשית: שם המשחק
-tagline: משפט שיווקי קצר וקליט המתאר את המשחק
+# Tiny Steps
+## Tagline: Small steps for big changes
 
-מהות המשחק
-תארו את הרעיון המרכזי של המשחק שלכם (concept) בשלושה-ארבעה משפטים.
+## Game Concept
 
-לאיזה פלטפורמה מיועד המשחק שלכם (כגון: מחשב רגיל / טלפון נייד / אינטרנט)?
+Tiny Steps is a time management and empathetic simulation game where the player takes on the role of a special ed kindergarten teacher. The goal of the game is to manage the daily kindergarten routine, guide the children through learning and play stations, and provide precise responses to each child's emotional needs. The game challenges players with real time planning, prioritization and emotional regulation creating a supportive enviroment.
 
-שימו כאן ציור-מסך המתאר את המשחק כפי שאתם רואים אותו בדמיון שלכם.
+## Target Platform
+PC\Web Browser.
 
-רכיבים רשמיים
-ענו על השאלות הבאות לגבי הרכיבים הרשמיים של המשחק (החליפו את הטקסט של השאלות בתשובות שלכם).
 
-המחישו את התשובות שלכם בעזרת ציורי-מסך.
 
-1. שחקנים
-לאילו שחקנים מיועד המשחק שלכם (איזה גילים / רמת כישרון / רמת ניסיון / תחומי עניין)?
-לכמה שחקנים מיועד המשחק?
-מה יהיו דפוסי האינטראקציה בין השחקנים (שיתופי / תחרותי)?
-2. יעדים
+## Formal Elements
+1.Players: The target audience are players ages 12 and up, students and professionals in education, therapy as well as fans of cozy and management games.
+Number Of players: Single-Player.
+Interaction Pattern: Player vs. System.
+
+2.Goals:
 מה הם היעדים שהשחקן צריך להשיג כדי לנצח במשחק?
 איך המשחק יודיע לשחקן את היעדים שלו?
 3. תהליכים
