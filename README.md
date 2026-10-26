@@ -6,6 +6,6 @@ throughout the day the player must juggle learning stations sensory activities a
 
 ## Team members
 * Elon Jacobowitz
-* etai kuminsky
+* Itai Kamenetsky
 
 
