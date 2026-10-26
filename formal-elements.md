@@ -116,6 +116,9 @@ How Ours Differ: While Cozy Grove focuses on passive fetch quests and relaxation
 3. Good Pizza, Great Pizza
 Link: [Good Pizza, Great Pizza on Steam](https://store.steampowered.com/app/770810/Good_Pizza_Great_Pizza_Cooking_Simulator_Game/)
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/00311973-61c3-49e5-bd49-2fa7e6bf2c3d" />
+
+
 How Ours Differ: Tiny Steps adapts the core loop of time-management order fulfillment, but replaces food assembly with responding to human emotional, developmental, and sensory needs.
 
 Differentiating Formal Elements
