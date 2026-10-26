@@ -19,7 +19,7 @@ Interaction Pattern: Player vs. System.
 Winning Goal-Complete the school week with every child making tangible progress toward their individual developmental milestones while keeping the group's emotional regulation meter high.
 Goal Communication- At the start of each day, a visual daily schedule details each child's goals. During gameplay, real-time status meters appear above the children's heads.
 
-3. Procedures:
+3.Procedures:
 First 30 Seconds (Hook): The game opens with a warm, colorful morning scene accompanied by soothing background music. The main door opens, and the first child enters. The player receives a simple, highlighted visual prompt to greet the child and guide them to the visual schedule board. This immediate positive feedback creates an instant emotional bond that encourages the player to continue.
 
 Core Loop:
@@ -39,7 +39,7 @@ Mouse (Click & Drag): Selecting objects, handing out regulation tools, and compl
 
 Learning the Procedures: Day 1 functions as an interactive tutorial featuring highlighted visual cues and brief animated demonstrations.
 
-4. Rules
+4.Rules
 Restrictive Rules:
 The teacher can only assist one child at a time.
 The calming/sensory room capacity is limited to two children simultaneously.
@@ -50,7 +50,7 @@ Prompt and accurate care increases the child's regulation meter and awards devel
 Ignoring signs of distress causes sensory overload to spread to nearby children and drains the teacher's patience meter.
 Learning the Rules: Contextual tooltips, immediate visual/audio feedback for every action, and an accessible in-game digital guide in the menu.
 
-5. Resources
+5.Resources
 Resource Types:
 Time: Defines the active window for completing tasks.
 
@@ -66,11 +66,11 @@ Resource Scarcity: Soothing tools have cooldown periods or sanitization times be
 
 UI Display: A fixed top bar displays available tools, remaining teacher energy, and an analog classroom clock.
 
-6. Conflicts
+6.Conflicts
 Player vs. System (Obstacles): Random environmental disruptions, such as loud construction noise from outside, sudden weather changes canceling outdoor play, or unexpected overlaps in children's needs.
 Player vs. Self (Dilemmas): Time vs. Empathy prioritization — Should you pause a structured group activity to provide extended 1-on-1 support to a single frustrated child, or stick to the schedule so the rest of the class isn't delayed?
 
-7. Boundaries
+7.Boundaries
 World Structure: Closed, flat 2D environment (Top-down / Isometric view).
 
 Visualizing Boundaries: Classroom walls, playground fencing, and the main entrance door clearly mark the playable boundaries.
@@ -87,7 +87,7 @@ Interest: Interactive elements packed into every station (ball pit, drawing stat
 
 Guidance: Designed floor markings and visual cues guiding children to their next scheduled activity.
 
-8. Outcomes
+8.Outcomes
 Possible Outcomes: 3 distinct outcomes:
 
 Full Success: All children reached their daily developmental goals and the classroom atmosphere remained calm and positive.
