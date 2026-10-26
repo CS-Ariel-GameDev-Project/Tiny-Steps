@@ -104,17 +104,17 @@ Market Research
 Search Keywords Used: Special Ed simulator game, cozy classroom management game, sensory kindergarten simulator, pixel art management game.
 
 1. Kindergarten (Game)
-Link: Kindergarten on Steam
+Link: [Kindergarten on Steam](https://store.steampowered.com/app/589590/Kindergarten/)
 
 How Ours Differ: The existing title is a dark comedy/horror game. Tiny Steps offers a positive, empathetic, educational experience built grounded in clinical principles of occupational therapy and sensory regulation.
 
 2. Cozy Grove
-Link: Cozy Grove on Steam
+Link: [Cozy Grove on Steam](https://store.steampowered.com/app/1458100/Cozy_Grove/)
 
 How Ours Differ: While Cozy Grove focuses on passive fetch quests and relaxation, Tiny Steps is an active management simulation requiring real-time problem solving, executive function training, and emotional response.
 
 3. Good Pizza, Great Pizza
-Link: Good Pizza, Great Pizza on Steam
+Link: [Good Pizza, Great Pizza on Steam](https://store.steampowered.com/app/770810/Good_Pizza_Great_Pizza_Cooking_Simulator_Game/)
 
 How Ours Differ: Tiny Steps adapts the core loop of time-management order fulfillment, but replaces food assembly with responding to human emotional, developmental, and sensory needs.
 
