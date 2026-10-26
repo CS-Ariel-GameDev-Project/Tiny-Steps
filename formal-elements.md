@@ -106,10 +106,16 @@ Search Keywords Used: Special Ed simulator game, cozy classroom management game,
 1. Kindergarten (Game)
 Link: [Kindergarten on Steam](https://store.steampowered.com/app/589590/Kindergarten/)
 
+<img width="1564" height="880" alt="image" src="https://github.com/user-attachments/assets/a02c978a-8a51-4687-a992-fec19cf11a64" />
+
+
 How Ours Differ: The existing title is a dark comedy/horror game. Tiny Steps offers a positive, empathetic, educational experience built grounded in clinical principles of occupational therapy and sensory regulation.
 
 2. Cozy Grove
 Link: [Cozy Grove on Steam](https://store.steampowered.com/app/1458100/Cozy_Grove/)
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3c0e8fee-a959-4d10-b416-7d468ada49db" />
+
 
 How Ours Differ: While Cozy Grove focuses on passive fetch quests and relaxation, Tiny Steps is an active management simulation requiring real-time problem solving, executive function training, and emotional response.
 
