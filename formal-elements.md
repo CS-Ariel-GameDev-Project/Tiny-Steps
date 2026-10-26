@@ -20,7 +20,7 @@ Winning Goal-Complete the school week with every child making tangible progress 
 Goal Communication- At the start of each day, a visual daily schedule details each child's goals. During gameplay, real-time status meters appear above the children's heads.
 
 3. Procedures:
- First 30 Seconds (Hook): The game opens with a warm, colorful morning scene accompanied by soothing background music. The main door opens, and the first child enters. The player receives a simple, highlighted visual prompt to greet the child and guide them to the visual schedule board. This immediate positive feedback creates an instant emotional bond that encourages the player to continue.
+First 30 Seconds (Hook): The game opens with a warm, colorful morning scene accompanied by soothing background music. The main door opens, and the first child enters. The player receives a simple, highlighted visual prompt to greet the child and guide them to the visual schedule board. This immediate positive feedback creates an instant emotional bond that encourages the player to continue.
 
 Core Loop:
 Identify: Monitor children's focus and regulation indicators across the classroom.
