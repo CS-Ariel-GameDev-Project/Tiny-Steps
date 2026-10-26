@@ -5,6 +5,9 @@
 
 Tiny Steps is a time management and empathetic simulation game where the player takes on the role of a special ed kindergarten teacher. The goal of the game is to manage the daily kindergarten routine, guide the children through learning and play stations, and provide precise responses to each child's emotional needs. The game challenges players with real time planning, prioritization and emotional regulation creating a supportive enviroment.
 
+<img width="1024" height="211" alt="image" src="https://github.com/user-attachments/assets/e0b2d343-bbb2-4dee-8267-15bfded823ed" />
+
+
 ## Target Platform
 PC\Web Browser.
 
